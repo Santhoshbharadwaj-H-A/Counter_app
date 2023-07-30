@@ -1,0 +1,145 @@
+.counter-container {
+  width: 600px;
+  margin: 0 auto;
+  background-color: #455a64;
+  padding-top: 50px;
+  padding-bottom: 100px;
+  padding-left: 100px;
+  padding-right: 100px;
+  border-radius: 50px;
+}
+h1{
+  
+  text-align: center;
+  font-size: 90px;
+  font-style: italic;
+  border: 2px solid yellow;
+  border-radius: 10px;
+  padding: 10px;
+  background-color: rgb(235, 161, 245);
+  color: blueviolet;
+}
+
+#counter{
+  text-align: center;
+  font-size: 200px;
+  
+  border: 2px solid black;
+  border-radius: 10px;
+  padding: 20px;
+  margin: 200px;
+  background-color: bisque;
+}
+
+#increment{
+  display: block;
+  font-weight:px;
+  font-size: 50px;
+
+  border: 2px solid white;
+  border-radius: 10px;
+  padding: 10px;
+  margin-top: 50px;
+  margin-left: 150px;
+  background-color: bisque;
+}
+#increment:hover{
+  color: red;
+}
+#increment:active{
+  background-color: rgb(68, 50, 57);
+}
+
+#decrement{
+  display: block;
+  font-weight:px;
+  font-size: 50px;
+
+  border: 2px solid white;
+  border-radius: 10px;
+  padding: 10px;
+  margin-top: 5px;
+  margin-left: 140px;
+  background-color: bisque;
+}
+#decrement:hover{
+  color: red;
+}
+#decrement:active{
+  background-color: rgb(68, 50, 57);
+}
+#increment-5{
+  display: block;
+  font-weight:px;
+  font-size: 50px;
+
+  border: 2px solid white;
+  border-radius: 10px;
+  padding: 10px;
+  margin-top: 5px;
+  margin-left: 110px;
+  background-color: bisque;
+}
+#increment-5:hover{
+  color: red;
+}
+#increment-5:active{
+  background-color: rgb(68, 50, 57);
+}
+#decrement-5{
+  display: block;
+  font-weight:px;
+  font-size: 50px;
+
+  border: 2px solid white;
+  border-radius: 10px;
+  padding: 10px;
+  margin-top: 5px;
+  margin-left: 110px;
+  background-color: bisque;
+}
+#decrement-5:hover{
+  color: red;
+}
+#decrement-5:active{
+  background-color: rgb(68, 50, 57);
+}
+
+#user-input{
+  display: block;
+  font-weight:px;
+  font-size: 50px;
+
+  border: 2px solid white;
+  border-radius: 10px;
+  padding: 10px;
+  margin-top: 5px;
+  margin-left: 0px;
+  background-color: bisque;
+}
+
+#user-input{
+  color: red;
+}
+#user-input:active{
+  background-color: rgb(68, 50, 57);
+}
+
+#reset{
+  display: block;
+  font-weight:px;
+  font-size: 50px;
+
+  border: 2px solid rgb(240, 149, 12);
+  border-radius: 10px;
+  padding: 10px;
+  margin-top: 5px;
+  margin-left: 200px;
+  background-color: bisque;
+}
+#reset:hover{
+  color: red;
+}
+#reset:active{
+  background-color: rgb(68, 50, 57);
+}
